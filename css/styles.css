@@ -1,18 +1,5 @@
-h2.intro{
+.intro{
   color: red;
-}
-
-
-p.intro{
-  color: red;
-
-}
-
-
-img.intro{
-  width: 400px;
-  height: 400px;
-  
-
-
+  font-weight: bold;
+  font-style: italic;
 }
