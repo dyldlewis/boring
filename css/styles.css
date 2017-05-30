@@ -1,5 +1,19 @@
-.intro{
-  color: red;
-  font-weight: bold;
-  font-style: italic;
+
+.change{
+  background-color: yellow;
+  border: solid 5px;
+  border-style: inset;
+  text-align: center;
+}
+
+.original{
+  background-color: white;
+  border: none;
+}
+h1{
+  text-align: center;
+}
+img{
+  display: block;
+  margin:auto;
 }

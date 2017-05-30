@@ -1,0 +1,14 @@
+$(document).ready(function(){
+  $(".highlight#par1").click(function(){
+    $("#par1").removeClass();
+    $("#par1").addClass("change");
+  });
+  $(".highlight#par2").click(function(){
+    $("#par2").removeClass();
+    $("#par2").addClass("change");
+  });
+  $(".change").click(function(){
+    $("#par1").removeClass();
+    $("#par1").addClass("change");
+  });
+});
